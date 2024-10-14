@@ -1,0 +1,19 @@
+{
+  "name": "ppi-t03",
+  "version": "1.0.0",
+  "description": "Trabajo 03 para la UA Programación para Internet\r <p align=\"justify\"> El único requisito para poder visualizar y ejecutar este repositorio es un navegador. Localice el archivo index.html y haga doble clic sobre él para abrir una ventana en su navegador predeterminado.\r Para agregar tareas, escriba un texto en el único lugar posible de la página y haga clic en el botón con el signo +. Las tareas se desplegarán en una lista debajo de la sección de creación. </p>",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "sqlite3": "^5.1.7"
+  }
+}
